@@ -1,0 +1,15 @@
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/bin/Debug/net7.0/Code
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/bin/Debug/net7.0/Code.deps.json
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/bin/Debug/net7.0/Code.runtimeconfig.json
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/bin/Debug/net7.0/Code.dll
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/bin/Debug/net7.0/Code.pdb
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/obj/Debug/net7.0/Code.csproj.AssemblyReference.cache
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/obj/Debug/net7.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/obj/Debug/net7.0/Code.AssemblyInfoInputs.cache
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/obj/Debug/net7.0/Code.AssemblyInfo.cs
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/obj/Debug/net7.0/Code.csproj.CoreCompileInputs.cache
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/obj/Debug/net7.0/Code.dll
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/obj/Debug/net7.0/refint/Code.dll
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/obj/Debug/net7.0/Code.pdb
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/obj/Debug/net7.0/Code.genruntimeconfig.cache
+/Users/elenasofiyskaya/Documents/FinalWork#1/FinalWork1/Code/obj/Debug/net7.0/ref/Code.dll
